@@ -1,5 +1,3 @@
-//https://youtu.be/09xsTejo4zM
-
 import java.util.Scanner;
 
 public class ProjectEliza {
